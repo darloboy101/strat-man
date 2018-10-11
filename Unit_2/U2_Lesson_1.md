@@ -1,5 +1,6 @@
 
 # What is strategic analysis?
+# GW
 
 ## Lesson overview
 
